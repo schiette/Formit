@@ -1,10 +1,10 @@
 {
-    "name": "Quick Rotate Toolbar",
+    "name": "Random Rotate Toolbar",
     "buttons": [
         {
-            "name": "Quick Rotate",
-            "command": "QuickRotatePlugin.ButtonR",
-            "iconText": "QR"
+            "name": "Random Rotate",
+            "command": "RandomRotatePlugin.ButtonR",
+            "iconText": "RR"
         }
     ]
 }
