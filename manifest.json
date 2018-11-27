@@ -1,7 +1,0 @@
-{
-    "PluginName": "Quick Rotate",
-    "ToolbarURL": "PLUGINLOCATION/toolbar.json",
-    "Scripts": [
-        "PLUGINLOCATION/quickrotate.js"
-    ]
-}
