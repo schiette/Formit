@@ -19,7 +19,7 @@ QuickRotatePlugin.ButtonR = function()
     var rotationcenter = WSM.Geom.Line3d(midpoint,zvector)	
     var angle = 90 * Math.PI /180;
     
-    // for each object selected, execute the flip along
+    // for each object selected, execute the rotate
     for (var j = 0; j < selections.length; j++)
     {
         // if you're not in the Main History, need to calculate the depth to extract the correct history data
