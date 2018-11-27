@@ -1,0 +1,7 @@
+{
+    "PluginName": "Random Rotate",
+    "ToolbarURL": "PLUGINLOCATION/toolbar.json",
+    "Scripts": [
+        "PLUGINLOCATION/randomrotate.js"
+    ]
+}
